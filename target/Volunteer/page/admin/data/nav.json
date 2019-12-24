@@ -1,0 +1,101 @@
+[
+
+	 {
+	    "title": "志愿者管理",
+	    "href": "",
+	    "icon": "&#xe66f;",
+	    "spread": false,
+	    "children": [
+	        {
+	            "title": "志愿者列表",
+	            "href": "user.jsp",
+	            "fontFamily": "layui-icon",
+	            "icon": "&#xe62e;",
+	            "spread": false
+	        }
+	    ]
+	},
+	
+	{
+	    "title": "志愿项目管理",
+	    "href": "",
+	    "icon": "&#xe66f;",
+	    "spread": false,
+	    "children": [
+	        {
+	            "title": "已审核项目",
+				"fontFamily": "layui-icon",
+	            "href": "projectList.jsp",
+	            "icon": "&#xe62e;",
+	            "spread": false
+	        },
+			 {
+			    "title": "待审核项目",
+				 "fontFamily": "layui-icon",
+			    "href": "checkProject.jsp",
+			    "icon": "&#xe62e;",
+			    "spread": false
+			}
+	    ]
+	},
+	
+	{
+	    "title": "文章管理",
+	    "href": "",
+	    "icon": "&#xe66f;",
+	    "spread": false,
+	    "children": [
+	         {
+	            "title": "文章列表",
+	            "href": "article.jsp",
+	            "icon": "&#xe62e;",
+	            "spread": false
+	        }
+	    ]
+	},
+	
+	{
+	    "title": "志愿风采管理",
+	    "href": "",
+	    "icon": "&#xe66f;",
+	    "spread": false,
+	    "children": [
+	         {
+	            "title": "图片列表",
+	            "href": "image.jsp",
+	            "icon": "&#xe62e;",
+	            "spread": false
+	        }
+	    ]
+	},
+	
+	{
+	    "title": "意见管理",
+	    "href": "",
+	    "icon": "&#xe66f;",
+	    "spread": false,
+	    "children": [
+	          {
+	             "title": "意见列表",
+	             "href": "message.jsp",
+	             "icon": "&#xe62e;",
+	             "spread": false
+	         }
+	    ]
+	}/*,
+	{
+		"title": "管理员管理",
+		"href": "",
+		"icon": "&#xe66f;",
+		"spread": false,
+		"children": [
+			{
+				"title": "管理员列表",
+				"href": "adminList.jsp",
+				"icon": "&#xe62e;",
+				"spread": false
+			}
+		]
+	}*/
+    
+]

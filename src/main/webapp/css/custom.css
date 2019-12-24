@@ -1,0 +1,103 @@
+/* your styles go here */
+.path-bacground{
+	width: 1515px;
+	height: 50px;
+	background-color: linen;
+	padding-top: 6px;
+	padding-left: 200px;
+}
+
+
+#mess_body{
+	border-bottom: #ef5285 solid 1px;
+	height: 105px;
+	margin-top: 25px;
+}
+
+#mess_head{
+	border-bottom: #ef5285 solid 1px;
+	height: 50px;
+	margin-top: 15px;
+}
+
+#mess_logl{
+	color: #ef5285;
+}
+
+.mess_span{
+	font-size: 16px;
+	margin:20px;
+}
+
+#head_user{
+	width: 50px;
+	height: 50px;
+	border: 1px solid black;
+	margin-top: 10px;
+	margin-left: 5px;
+	padding-top: 5px;
+	padding-left: 5px;
+}
+
+.img-picture{
+	width: 379px;
+	height: 275px;
+}
+
+#info_right{
+	margin-left: 90px;
+}
+
+#tips{
+	border: 1.5px dashed #ef5285;
+	border-radius:53px;
+	width: 230px;
+	height: 170px;
+	padding: 20px;
+	margin-left: 60px;
+	margin-top: 55px;
+}
+
+#tips:hover{
+	border: 1.5px solid #ef5285;
+	shape-outside: -webkit-canvas;
+	margin-left: 55px;
+	margin-top: 65px;
+}
+
+
+.index_a{
+	color: #999999;
+	font-size: 17px;
+}
+
+.post a{
+	color: #000000;
+}
+
+.index_a:hover{
+	color: #ef5285;
+	/* text-decoration: underline; */
+}
+
+#article{
+	border-right: 4px solid #ef5285;
+	padding-right: 5px;
+}
+#article>p{
+	text-indent: 2em;
+	padding-left: 10px;
+}
+
+.box-services a{
+	color: #080808;
+}
+
+.box-services a:hover{
+	color: #ef5285;
+}
+
+.form-checked-red{
+	color: #ef5285;
+    margin: 0 3px;
+}
